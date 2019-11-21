@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">shop.io</string>
+    <string-array name="catagoryArray">
+        <item>Food</item>
+        <item>Clothes</item>
+        <item>Electronics</item>
+    </string-array>
+    <string name="catagoryPrompt">Catagory</string>
+    <string name="action_settings">Settings</string>
+</resources>
